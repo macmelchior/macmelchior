@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey there!👋
 
-<!--
-**macmelchior/macmelchior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maciej, a Technical Writer based in Poland.
+I am currently working as a Knowledge Manager for a virtual data room company, where I have built and maintained a scalable product knowledge base from scratch.
+I am building my technical writer portfolio here at GitHub.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and tech
+
+* Markdown
+* AsciiDoc
+* Docs-as-code
+* Git
+
+## About me
+
+* I graduated from Maria Curie-Skłodowska University in Lublin with an MA in English.
+* I have five years of experience writing documentation for clients and internal teams.
+* I create product how-tos and references, as well as procedures for the Support team.
+* All my documentation is written by me, not a bot. I only use Large Language Models to create templates, boilerplates, and snippets.
+
