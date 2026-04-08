@@ -1,6 +1,6 @@
-## Hey there!👋
+## Hey! I'm Maciej👋
 
-I'm Maciej, a Technical Writer based in Poland.
+I'm a Technical Writer based in Poland.
 I am currently working as a Knowledge Manager for a virtual data room company, where I have built and maintained a scalable product knowledge base from scratch.
 I am building my technical writer portfolio here at GitHub.
 
