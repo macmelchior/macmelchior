@@ -1,7 +1,7 @@
 ## Hey! I'm Maciej👋
 
 I am currently working as a Knowledge Manager for a virtual data room company, where I have built and maintained a scalable product knowledge base from scratch.
-I am building my web dev here at GitHub. I am also learning Python.
+I am building my web dev here at GitHub. I am also learning Python and Webdev.
 
 ## Tools and tech 🔧
 
