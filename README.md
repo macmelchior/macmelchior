@@ -9,7 +9,7 @@ I am building my web dev here at GitHub. I am also learning Python and Webdev.
 * AsciiDoc
 * Docs-as-code
 * Git
-  Python
+*  Python
 ## About me 👨‍💻
 
 * I graduated from Maria Curie-Skłodowska University in Lublin with an MA in English.
